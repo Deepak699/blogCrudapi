@@ -19,7 +19,7 @@ blog post's
 
 
 ```bash
-  npm run init
+  npm install
 ```
 2.To Start Server
 
