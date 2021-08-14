@@ -29,7 +29,8 @@ blog post's
   
 ## Screenshots
 
-![App Screenshot](![POST-request](https://user-images.githubusercontent.com/48008609/129437622-3b8b25aa-3ac9-4b66-b90b-d8b05f04c556.PNG)
-)
+![App Screenshot]()
+![POST-request](https://user-images.githubusercontent.com/48008609/129437632-3c9e93a0-b472-4a75-b57f-ae93d8effb59.PNG)
+
 
   
