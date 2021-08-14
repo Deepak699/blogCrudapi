@@ -34,7 +34,7 @@ blog post's
 To run this project, you will need to add the following environment variables to your .env file
 
 `DB_URI`
-Add your mongodb Atlas Link to this environment variable to connect to your database 
+
 
   
 ## Screenshots
