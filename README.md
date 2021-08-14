@@ -27,3 +27,8 @@ blog post's
   npm run dev
 ```
   
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/1OUEJB9dVFrWBlX1ZaTjsRsP1ckeYPPHh/view?usp=sharing)
+
+  
