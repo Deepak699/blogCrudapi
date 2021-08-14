@@ -27,6 +27,16 @@ blog post's
   npm run dev
 ```
   
+ 
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`DB_URI`
+Add your mongodb Atlas Link to this environment variable to connect to your database 
+
+  
 ## Screenshots
 ## Create blog-post
 ![POST-request](https://user-images.githubusercontent.com/48008609/129437720-f80d4360-e539-41c6-bca0-86c867fb2ec4.PNG) ![POST-response](https://user-images.githubusercontent.com/48008609/129437728-5e15fe86-a0c0-47f5-9290-eb72ea164455.PNG) 
