@@ -29,6 +29,7 @@ blog post's
   
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1OUEJB9dVFrWBlX1ZaTjsRsP1ckeYPPHh/view?usp=sharing)
+![App Screenshot](![POST-request](https://user-images.githubusercontent.com/48008609/129437622-3b8b25aa-3ac9-4b66-b90b-d8b05f04c556.PNG)
+)
 
   
