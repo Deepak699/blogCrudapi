@@ -13,11 +13,6 @@ blog post's
 
 
   
-## Live Demo
-
-https://drive.google.com/file/d/1t4-o3P5YSDPDWwCttNATHIxLgLWNe1hE/view?usp=sharing
-
-  
 ## Quick Start 
 
 1.Install dependencies
@@ -32,5 +27,3 @@ https://drive.google.com/file/d/1t4-o3P5YSDPDWwCttNATHIxLgLWNe1hE/view?usp=shari
   npm run dev
 ```
   
-
-
